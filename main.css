@@ -1,0 +1,48 @@
+/*CONTAINER*/
+.container {
+    border : solid 2px #98989C;
+    box-shadow: 2px 1px 0px 1px #98989C;
+    height: auto;
+    width: 400px;
+    padding: 15px;
+    text-align: center;
+    background-color: #F8F8F6;
+    font-family: Lucida Console;
+    
+    
+  }
+  
+  /*NAME*/
+  #name { font-size: 22.5px;
+          font-weight: bolder;
+          color: #07f73b;
+          margin-bottom: -10px;
+        }
+  
+  /*DESIGNATION*/
+  #desig { font-size: 16px;
+           font-family: Courier New;
+           font-weight: bold;
+           margin-bottom: -10px;
+         }
+  
+  /*--CONTACT INFORMATION*/
+  #head { font-size: 30px;
+          font-style: itatlic;
+          font-weight: 500;
+          font-family: 'Parisienne', cursive;
+          color: #DCA176;
+          margin-bottom: -15px;
+        }
+  #email { font-size: 15px; }
+  #phone { margin-top: 10px;
+           font-size: 15px;
+           
+         }
+        
+  #address{font-size: 13px;
+    font-family: Courier New;
+    font-weight: bold;
+    margin-bottom: -10px;
+    text-align: left;
+  }
